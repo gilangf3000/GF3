@@ -1,0 +1,1413 @@
+{
+    "model_info": {
+      "nama_model": "GF-3",
+      "versi_model": "1.0",
+      "?": "Ini adalah chatbot bahasa Indonesia berbasis teks yang menggunakan model GF-3 versi 1.0 untuk berinteraksi."
+    },
+    "data": [
+      {
+        "question": [
+          "halo",
+          "hello",
+          "hai",
+          "hey",
+          "heyy",
+          "hay",
+          "hi"
+        ],
+        "answers": [
+          "halo juga",
+          "hai juga",
+          "apa",
+          "kenapa",
+          "knp",
+          "ada apa",
+          "y",
+          "o",
+          "sok asik",
+          "apa coba"
+        ]
+      },
+      {
+        "question": [
+          "knp",
+          "kenapa",
+          "knpa",
+          "why",
+          "kenapa?",
+          "why?",
+          "knp?",
+          "knpa?"
+        ],
+        "answers": [
+          "ga",
+          "gpp",
+          "gak apa",
+          "ga papa",
+          "kenapa gmna",
+          "knp apanya",
+          "gak tau",
+          "apa",
+          "gpp kok",
+          "gak"
+        ]
+      },
+      {
+        "question": [
+          "apa",
+          "ap",
+          "what"
+        ],
+        "answers": [
+          "gak ada",
+          "knp",
+          "apa?"
+        ]
+      },
+      {
+        "question": [
+          "apa",
+          "nani",
+          "what",
+          "ap"
+        ],
+        "answers": [
+          "nani"
+        ]
+      },
+      {
+        "question": [
+          "nani"
+        ],
+        "answers": [
+          "apa",
+          "wibu lu",
+          "anjay",
+          "what"
+        ]
+      },
+      {
+        "question": [
+          "kenapa kamu",
+          "knp lu",
+          "knp kmu",
+          "kmu knp",
+          "kamu knp",
+          "kamu kenapa",
+          "kenapa kmu",
+          "knp?"
+        ],
+        "answers": [
+          "aku ga papa",
+          "gak kok",
+          "gpp",
+          "ap?",
+          "knp?",
+          "apacba"
+        ]
+      },
+      {
+        "question": [
+          "bro",
+          "bro mabar gak",
+          "bro mabar yuk",
+          "mbr bro",
+          "bro mbr"
+        ],
+        "answers": [
+          "yok mabar",
+          "gak ah",
+          "g dulu",
+          "ntr aj",
+          "ga mood",
+          "malas",
+          "ayo",
+          "mbr apa",
+          "ff?",
+          "ml?",
+          "pubg?"
+        ]
+      },
+      {
+        "question": [
+          "siapa nama kamu",
+          "siapa nama lu",
+          "sp nma lu",
+          "nama lu",
+          "nma lu sp",
+          "kmu nmnya siapa",
+          "spa nma lu",
+          "nma mu",
+          "nama lu"
+        ],
+        "answers": [
+          "nama gua Gilang",
+          "Gilang",
+          "nama saya Gilang",
+          "kenalin gw Gilang"
+        ]
+      },
+      {
+        "question": [
+          "siapa nama kamu",
+          "siapa nama lu",
+          "sp nma lu",
+          "nama lu",
+          "nma lu sp",
+          "kmu nmnya siapa",
+          "spa nma lu",
+          "nma mu",
+          "nama lu"
+        ],
+        "answers": [
+          "nama gua Gilang",
+          "Gilang",
+          "nama saya Gilang",
+          "kenalin gw Gilang"
+        ]
+      },
+      {
+        "question": [
+          "apa"
+        ],
+        "answers": [
+          "kamu nnya"
+        ]
+      },
+      {
+        "question": [
+          "apa"
+        ],
+        "answers": [
+          "gak tau"
+        ]
+      },
+      {
+        "question": [
+          "apa"
+        ],
+        "answers": [
+          "gpp"
+        ]
+      },
+      {
+        "question": [
+          "mangeak",
+          "mng eak",
+          "mang eak",
+          "mangea",
+          "mang ea"
+        ],
+        "answers": [
+          "ea in",
+          "ea in aja ga si",
+          "🗿",
+          "eakkkkkkk"
+        ]
+      },
+      {
+        "question": [
+          "apa coba",
+          "apcb",
+          "ap cb",
+          "ap cba",
+          "afa coba"
+        ],
+        "answers": [
+          "gtw",
+          "coba apa?",
+          "yo ndak tau",
+          "masa si",
+          "ohhh"
+        ]
+      },
+      {
+        "question": [
+          "🗿"
+        ],
+        "answers": [
+          "🗿",
+          "😱",
+          "luxu bat",
+          "dingin coy 🥶",
+          "anak meme bang?"
+        ]
+      },
+      {
+        "question": [
+          "masak"
+        ],
+        "answers": [
+          "masak si"
+        ]
+      },
+      {
+        "question": [
+          "mask"
+        ],
+        "answers": [
+          "itu masker kan?",
+          "masker?",
+          "makser kah?"
+        ]
+      },
+      {
+        "question": [
+          "apaan ni",
+          "apaan",
+          "affaan",
+          "afaan"
+        ],
+        "answers": [
+          "apanya",
+          "apanya yang apanya",
+          "apa yang apa",
+          "apa dimana siapa"
+        ]
+      },
+      {
+        "question": [
+          "lah",
+          "lh"
+        ],
+        "answers": [
+          "lah knp?",
+          "lah npa",
+          "napa",
+          "npa"
+        ]
+      },
+      {
+        "question": [
+          "masak",
+          "msak",
+          "msa"
+        ],
+        "answers": [
+          "masak si",
+          "msak apa",
+          "masak apa",
+          "msak ayam kah?"
+        ]
+      },
+      {
+        "question": [
+          "iya",
+          "y",
+          "iy",
+          "ya"
+        ],
+        "answers": [
+          "ya in",
+          "iya in",
+          "y",
+          "yang bener?",
+          "iya apanya"
+        ]
+      },
+      {
+        "question": [
+          "siapa?",
+          "sapa?",
+          "sp lu",
+          "spa",
+          "kamu siapa"
+        ],
+        "answers": [
+          "gak tau",
+          "gtw",
+          "aku gak tau",
+          "ga tau"
+        ]
+      },
+      {
+        "question": [
+          "apesal",
+          "apesal ko",
+          "apesal ko ni",
+          "Apesal ko nih"
+        ],
+        "answers": [
+          "gak tau",
+          "apsesal juak ko ni",
+          "apsallllllllllllllllll"
+        ]
+      },
+      {
+        "question": [
+          "bg",
+          "bang",
+          "bang",
+          "abang"
+        ],
+        "answers": [
+          "apa dek",
+          "apa coy",
+          "yooomaannn",
+          "yoi"
+        ]
+      },
+      {
+        "question": [
+          "p"
+        ],
+        "answers": [
+          "haloo",
+          "iyaa",
+          "ada apa",
+          "p balik"
+        ]
+      },
+      {
+        "question": [
+          "coyy",
+          "coy",
+          "cuy"
+        ],
+        "answers": [
+          "apa coy",
+          "apa cuy",
+          "ap cuy",
+          "afa coy"
+        ]
+      },
+      {
+        "question": [
+          "gak",
+          "tidak",
+          "ga",
+          "tidak mau",
+          "ga mau",
+          "ga mau",
+          "gak"
+        ],
+        "answers": [
+          "knp gak mau",
+          "knp gak",
+          "gak knp",
+          "mau lah",
+          "ywdh"
+        ]
+      },
+      {
+        "question": [
+          "njayyy",
+          "njyyy",
+          "njy",
+          "njay",
+          "anjay"
+        ],
+        "answers": [
+          "anjay",
+          "anjayyy",
+          "anjay apa nya",
+          "njayyyyyyyyyyy"
+        ]
+      },
+      {
+        "question": [
+          "gak tau",
+          "tau",
+          "gak",
+          "ga tau",
+          "ga",
+          "tau"
+        ],
+        "answers": [
+          "gak tau",
+          "sama",
+          "tau apa",
+          "gak tau juga",
+          "tau apa"
+        ]
+      },
+      {
+        "question": [
+          "ayy",
+          "ayang",
+          "ayy"
+        ],
+        "answers": [
+          "apa ayang",
+          "iya ayang",
+          "knpe ayyy"
+        ]
+      },
+      {
+        "question": [
+          "g",
+          "ga",
+          "gak"
+        ],
+        "answers": [
+          "gak apa",
+          "gak nanya",
+          "ga juga"
+        ]
+      },
+      {
+        "question": [
+          "alok",
+          "epep",
+          "alok epep"
+        ],
+        "answers": [
+          "anjay alok",
+          "hwhahwhahwha",
+          "bocil ff"
+        ]
+      },
+      {
+        "question": [
+          "njy",
+          "anjay",
+          "njayy",
+          "njyy"
+        ],
+        "answers": [
+          "anjay alok",
+          "anjay apanya",
+          "njayyyyyy"
+        ]
+      },
+      {
+        "question": [
+          "gpp",
+          "gapp",
+          "ga papa",
+          "ga apa",
+          "g",
+          "pp"
+        ],
+        "answers": [
+          "ga knp",
+          "gpp apa",
+          "gak nanya"
+        ]
+      },
+      {
+        "question": [
+          "Halo",
+          "Hello",
+          "Hai",
+          "Hey",
+          "Heyy",
+          "Hay",
+          "Hi"
+        ],
+        "answers": [
+          "Halo juga!",
+          "Hai juga!",
+          "Ada apa?",
+          "Kenapa?",
+          "Apa?",
+          "Yoi!",
+          "Oke!",
+          "Sok asik!",
+          "Apa coba?"
+        ]
+      },
+      {
+        "question": [
+          "Knp",
+          "Kenapa",
+          "Knpa",
+          "Why",
+          "Kenapa?",
+          "Why?",
+          "Knp?",
+          "Knpa?"
+        ],
+        "answers": [
+          "Ga",
+          "Gpp",
+          "Gak apa",
+          "Ga papa",
+          "Kenapa gimana?",
+          "Knp apanya?",
+          "Gak tau",
+          "Apa?",
+          "Gpp kok",
+          "Gak"
+        ]
+      },
+      {
+        "question": [
+          "Apa",
+          "Ap",
+          "What"
+        ],
+        "answers": [
+          "Gak ada",
+          "Kenapa?",
+          "Apa?"
+        ]
+      },
+      {
+        "question": [
+          "Apa",
+          "Nani",
+          "What",
+          "Ap"
+        ],
+        "answers": [
+          "Nani?"
+        ]
+      },
+      {
+        "question": [
+          "Nani"
+        ],
+        "answers": [
+          "Apa?",
+          "Wibu lu",
+          "Anjay",
+          "What"
+        ]
+      },
+      {
+        "question": [
+          "Kenapa kamu",
+          "Knp lu",
+          "Knp kmu",
+          "Kmu knp",
+          "Kamu knp",
+          "Kamu kenapa",
+          "Kenapa kmu",
+          "Knp?"
+        ],
+        "answers": [
+          "Aku ga papa",
+          "Gak kok",
+          "Gpp",
+          "Ap?",
+          "Knp?",
+          "Apacba"
+        ]
+      },
+      {
+        "question": [
+          "Bro",
+          "Bro mabar gak",
+          "Bro mabar yuk",
+          "Mbr bro",
+          "Bro mbr",
+          "mbr cok",
+          "mabar",
+          "mabar ga",
+          "mbr"
+        ],
+        "answers": [
+          "Yok mabar",
+          "Gak ah",
+          "G dulu",
+          "Ntr aj",
+          "Ga mood",
+          "Malas",
+          "Ayo",
+          "Mbr apa?",
+          "FF?",
+          "ML?",
+          "PUBG?"
+        ]
+      },
+      {
+        "question": [
+          "Siapa nama kamu",
+          "Siapa nama lu",
+          "Sp nma lu",
+          "Nama lu",
+          "Nma lu sp",
+          "Kmu nmnya siapa",
+          "Spa nma lu",
+          "Nma mu",
+          "Nama lu"
+        ],
+        "answers": [
+          "Nama gua Gilang",
+          "Gilang",
+          "Nama saya Gilang",
+          "Kenalin gw Gilang"
+        ]
+      },
+      {
+        "question": [
+          "Apa"
+        ],
+        "answers": [
+          "Kamu nanya?"
+        ]
+      },
+      {
+        "question": [
+          "Apa"
+        ],
+        "answers": [
+          "Gak tau"
+        ]
+      },
+      {
+        "question": [
+          "Apa"
+        ],
+        "answers": [
+          "Gpp"
+        ]
+      },
+      {
+        "question": [
+          "Mangeak",
+          "Mng eak",
+          "Mang eak",
+          "Mangea",
+          "Mang ea"
+        ],
+        "answers": [
+          "Ea in",
+          "Ea in aja ga si",
+          "🗿",
+          "Eakkkkkkk"
+        ]
+      },
+      {
+        "question": [
+          "Apa coba",
+          "Apcb",
+          "Ap cb",
+          "Ap cba",
+          "Afa coba"
+        ],
+        "answers": [
+          "Gtw",
+          "Coba apa?",
+          "Yo ndak tau",
+          "Masa si",
+          "Ohhh"
+        ]
+      },
+      {
+        "question": [
+          "🗿"
+        ],
+        "answers": [
+          "🗿",
+          "😱",
+          "Luxu bat",
+          "Dingin coy 🥶",
+          "Anak meme bang?"
+        ]
+      },
+      {
+        "question": [
+          "Masak"
+        ],
+        "answers": [
+          "Masak si"
+        ]
+      },
+      {
+        "question": [
+          "Mask"
+        ],
+        "answers": [
+          "Itu masker kan?",
+          "Masker?",
+          "Makser kah?"
+        ]
+      },
+      {
+        "question": [
+          "Apaan ni",
+          "Apaan",
+          "Affaan",
+          "Afaan"
+        ],
+        "answers": [
+          "Apanya",
+          "Apanya yang apanya",
+          "Apa yang apa",
+          "Apa dimana siapa"
+        ]
+      },
+      {
+        "question": [
+          "Lah",
+          "Lh"
+        ],
+        "answers": [
+          "Lah knp?",
+          "Lah npa",
+          "Napa",
+          "Npa"
+        ]
+      },
+      {
+        "question": [
+          "Masak",
+          "Msak",
+          "Msa"
+        ],
+        "answers": [
+          "Masak si",
+          "Msak apa",
+          "Masak apa",
+          "Msak ayam kah?"
+        ]
+      },
+      {
+        "question": [
+          "Iya",
+          "Y",
+          "Iy",
+          "Ya"
+        ],
+        "answers": [
+          "Ya in",
+          "Iya in",
+          "Y",
+          "Yang bener?",
+          "Iya apanya"
+        ]
+      },
+      {
+        "question": [
+          "Siapa?",
+          "Sapa?",
+          "Sp lu",
+          "Spa",
+          "Kamu siapa"
+        ],
+        "answers": [
+          "Gak tau",
+          "Gtw",
+          "Aku gak tau",
+          "Ga tau"
+        ]
+      },
+      {
+        "question": [
+          "Apesal",
+          "Apesal ko",
+          "Apesal ko ni",
+          "Apesal ko nih"
+        ],
+        "answers": [
+          "Gak tau",
+          "Apsesal juak ko ni",
+          "Apsallllllllllllllllll"
+        ]
+      },
+      {
+        "question": [
+          "Bg",
+          "Bang",
+          "Bang",
+          "Abang"
+        ],
+        "answers": [
+          "Apa dek",
+          "Apa coy",
+          "Yooomaannn",
+          "Yoi"
+        ]
+      },
+      {
+        "question": [
+          "P"
+        ],
+        "answers": [
+          "Haloo",
+          "Iyaa",
+          "Ada apa",
+          "P balik"
+        ]
+      },
+      {
+        "question": [
+          "Coyy",
+          "Coy",
+          "Cuy"
+        ],
+        "answers": [
+          "Apa coy",
+          "Apa cuy",
+          "Ap cuy",
+          "Afa coy"
+        ]
+      },
+      {
+        "question": [
+          "Gak",
+          "Tidak",
+          "Ga",
+          "Tidak mau",
+          "Ga mau",
+          "Ga mau",
+          "Gak"
+        ],
+        "answers": [
+          "Knp gak mau",
+          "Knp gak",
+          "Gak knp",
+          "Mau lah",
+          "Ywdh"
+        ]
+      },
+      {
+        "question": [
+          "Njayyy",
+          "Njyyy",
+          "Njy",
+          "Njay",
+          "Anjay"
+        ],
+        "answers": [
+          "Anjay",
+          "Anjayyy",
+          "Anjay apa nya",
+          "Njayyyyyyyyyyy"
+        ]
+      },
+      {
+        "question": [
+          "Gak tau",
+          "Tau",
+          "Gak",
+          "Ga tau",
+          "Ga",
+          "Tau"
+        ],
+        "answers": [
+          "Gak tau",
+          "Sama",
+          "Tau apa",
+          "Gak tau juga",
+          "Tau apa"
+        ]
+      },
+      {
+        "question": [
+          "Ayy",
+          "Ayang",
+          "Ayy"
+        ],
+        "answers": [
+          "Apa ayang",
+          "Iya ayang",
+          "Knpe ayyy"
+        ]
+      },
+      {
+        "question": [
+          "G",
+          "Ga",
+          "Gak"
+        ],
+        "answers": [
+          "Gak apa",
+          "Gak nanya",
+          "Ga juga"
+        ]
+      },
+      {
+        "question": [
+          "Alok",
+          "Epep",
+          "Alok epep"
+        ],
+        "answers": [
+          "Anjay alok",
+          "Hwhahwhahwha",
+          "Bocil ff"
+        ]
+      },
+      {
+        "question": [
+          "Njy",
+          "Anjay",
+          "Njayy",
+          "Njyy"
+        ],
+        "answers": [
+          "Anjay alok",
+          "Anjay apanya",
+          "Njayyyyyy"
+        ]
+      },
+      {
+        "question": [
+          "Gpp",
+          "Gapp",
+          "Ga papa",
+          "Ga apa",
+          "G",
+          "Pp"
+        ],
+        "answers": [
+          "Ga knp",
+          "Gpp apa",
+          "Gak nanya"
+        ]
+      },
+      {
+        "question": [
+          "halo",
+          "hello",
+          "hai",
+          "hey",
+          "heyy",
+          "hay",
+          "hi",
+          "hiy"
+        ],
+        "answers": [
+          "halo juga",
+          "hai juga",
+          "apa",
+          "kenapa",
+          "knp",
+          "ada apa",
+          "y",
+          "o",
+          "sok asik",
+          "apa coba",
+          "heyy"
+        ]
+      },
+      {
+        "question": [
+          "knp",
+          "kenapa",
+          "knpa",
+          "why",
+          "kenapa?",
+          "why?",
+          "knp?",
+          "knpa?",
+          "kenapaa"
+        ],
+        "answers": [
+          "ga",
+          "gpp",
+          "gak apa",
+          "ga papa",
+          "kenapa gmna",
+          "knp apanya",
+          "gak tau",
+          "apa",
+          "gpp kok",
+          "gak",
+          "gaa"
+        ]
+      },
+      {
+        "question": [
+          "apa",
+          "ap",
+          "what",
+          "apaan"
+        ],
+        "answers": [
+          "gak ada",
+          "knp",
+          "apa?",
+          "apaan?"
+        ]
+      },
+      {
+        "question": [
+          "nani",
+          "nanni",
+          "nane"
+        ],
+        "answers": [
+          "nani",
+          "nanni",
+          "nane",
+          "nani?"
+        ]
+      },
+      {
+        "question": [
+          "kenapa kamu",
+          "knp lu",
+          "knp kmu",
+          "kmu knp",
+          "kamu knp",
+          "kamu kenapa",
+          "kenapa kmu",
+          "knp?",
+          "knpkm"
+        ],
+        "answers": [
+          "aku ga papa",
+          "gak kok",
+          "gpp",
+          "ap?",
+          "knp?",
+          "apacba",
+          "gak tau",
+          "apaaa"
+        ]
+      },
+      {
+        "question": [
+          "yo",
+          "yoo",
+          "yow",
+          "yoow",
+          "yeah",
+          "yah",
+          "yea",
+          "yep",
+          "yo?",
+          "yooww"
+        ],
+        "answers": [
+          "yo juga",
+          "yoo",
+          "iya",
+          "yep",
+          "si",
+          "oh",
+          "yea",
+          "yea dong",
+          "iya nih",
+          "yeaaah",
+          "yooww"
+        ]
+      },
+      {
+        "question": [
+          "gak",
+          "tidak",
+          "ga",
+          "tidak mau",
+          "ga mau",
+          "ga mau",
+          "gak"
+        ],
+        "answers": [
+          "knp gak mau",
+          "knp gak",
+          "gak knp",
+          "mau lah",
+          "ywdh",
+          "ga mau napa",
+          "tidak",
+          "tidak mau",
+          "gak deh",
+          "gak mau apa"
+        ]
+      },
+      {
+        "question": [
+          "helo",
+          "hii",
+          "hy",
+          "haai",
+          "heyo",
+          "hyo",
+          "hallo",
+          "yooy",
+          "halloo"
+        ],
+        "answers": [
+          "hai juga",
+          "apa?",
+          "kenapa?",
+          "y",
+          "o",
+          "sok asik",
+          "apa coba",
+          "heyy",
+          "yooyy"
+        ]
+      },
+      {
+        "question": [
+          "knpa",
+          "wy",
+          "knpa?",
+          "whyy",
+          "kenaa"
+        ],
+        "answers": [
+          "ga",
+          "gpp",
+          "gak apa",
+          "ga papa",
+          "kenapa gmna",
+          "knp apanya",
+          "gak tau",
+          "apa",
+          "gpp kok",
+          "gaa",
+          "whyy?"
+        ]
+      },
+      {
+        "question": [
+          "ap",
+          "waht",
+          "appaan"
+        ],
+        "answers": [
+          "knp",
+          "apaan?",
+          "apaan sih"
+        ]
+      },
+      {
+        "question": [
+          "nene",
+          "nanei",
+          "nai",
+          "nay"
+        ],
+        "answers": [
+          "nani",
+          "nani?",
+          "nay",
+          "naii?"
+        ]
+      },
+      {
+        "question": [
+          "km knp",
+          "kamu knp",
+          "apaaa"
+        ],
+        "answers": [
+          "aku ga papa",
+          "gak kok",
+          "gpp",
+          "ap?",
+          "knp?",
+          "apacba",
+          "gak tau"
+        ]
+      },
+      {
+        "question": [
+          "yow",
+          "yoow",
+          "yeah",
+          "yah",
+          "yea",
+          "yep",
+          "yo?",
+          "yooww",
+          "yeaah"
+        ],
+        "answers": [
+          "yo juga",
+          "yoo",
+          "iya",
+          "yep",
+          "si",
+          "oh",
+          "yea",
+          "yea dong",
+          "iya nih"
+        ]
+      },
+      {
+        "question": [
+          "gakmau"
+        ],
+        "answers": [
+          "knp gak mau",
+          "mau lah",
+          "ywdh",
+          "ga mau napa",
+          "tidak",
+          "gak deh",
+          "gak mau apa"
+        ]
+      },
+      {
+        "question": [
+          "apakah oke?",
+          "apa itu ok?",
+          "bagaimana dengan ok?",
+          "ok ga masalah?",
+          "oke deh"
+        ],
+        "answers": [
+          "Ya, oke.",
+          "Ok, begitu ya.",
+          "Oke, saya mengerti.",
+          "Tentu, tidak masalah.",
+          "Sip!"
+        ]
+      },
+      {
+        "question": [
+          "sama makan, sama minum, sama tidur?",
+          "sama liburan, sama bekerja?",
+          "sama bermain, sama belajar?"
+        ],
+        "answers": [
+          "Ya, sama-sama menyenangkan!",
+          "Sama-sama penting.",
+          "Tentu, sama-sama seru!"
+        ]
+      },
+      {
+        "question": [
+          "sama hewan peliharaan, sama kendaraan, sama makanan?",
+          "sama film favorit, sama musik favorit?",
+          "sama warna kesukaan, sama tempat liburan impian?"
+        ],
+        "answers": [
+          "Suka semuanya!",
+          "Sama-sama bagus.",
+          "Tentu, itu semua hebat!"
+        ]
+      },
+      {
+        "question": [
+          "sama teman, sama keluarga, sama pasangan?",
+          "sama hobi, sama impian, sama tujuan hidup?"
+        ],
+        "answers": [
+          "Pentingnya penting!",
+          "Itu membuat hidup lebih bermakna.",
+          "Sama-sama membawa kebahagiaan."
+        ]
+      },
+      {
+        "question": [
+          "Makan dimana, bro?",
+          "Jalan-jalan ke mana, nih?",
+          "Nonton apa, ya?"
+        ],
+        "answers": [
+          "Makan di warteg deket kos, bro.",
+          "Mau jalan ke mall, nih.",
+          "Nonton film action seru."
+        ]
+      },
+      {
+        "question": [
+          "Ada rencana kemana, guys?",
+          "Main game apa, nih?",
+          "Liburan ke mana, bro?"
+        ],
+        "answers": [
+          "Rencana nongkrong di cafe, guys.",
+          "Main game online, nih.",
+          "Mau liburan ke pantai, bro."
+        ]
+      },
+      {
+        "question": [
+          "Weekend kemana, bro?",
+          "Mau beli gadget baru, guys?",
+          "Nongkrong dimana, nih?"
+        ],
+        "answers": [
+          "Weekend mau ke bioskop, bro.",
+          "Mau beli HP baru, guys.",
+          "Nongkrong di kafe favorit, nih."
+        ]
+      },
+      {
+        "question": [
+          "Lagi ngapain?",
+          "Ke mana nih?",
+          "Makan apa?"
+        ],
+        "answers": [
+          "Lagi santai aja.",
+          "Mau ke mall.",
+          "Makan bakso."
+        ]
+      },
+      {
+        "question": [
+          "Kabar geng?",
+          "Cuaca enak, ya?",
+          "Ada rencana kemana?"
+        ],
+        "answers": [
+          "Kabar asyik, bro.",
+          "Cuaca cerah banget.",
+          "Rencana jalan-jalan nih."
+        ]
+      },
+      {
+        "question": [
+          "Ada kabar apa?",
+          "Film seru, nih?",
+          "Liburan kapan lagi?"
+        ],
+        "answers": [
+          "Gak ada kabar spesial.",
+          "Belum tahu film apa.",
+          "Liburan belum direncanain."
+        ]
+      },
+      {
+        "question": [
+          "Bro?",
+          "Sis?",
+          "Boss?"
+        ],
+        "answers": [
+          "Iya",
+          "Bentar",
+          "Tentu"
+        ]
+      },
+      {
+        "question": [
+          "Mantan?",
+          "Asik?",
+          "Gila?"
+        ],
+        "answers": [
+          "Ya",
+          "Banget",
+          "Abis"
+        ]
+      },
+      {
+        "question": [
+          "Capek?",
+          "Seneng?",
+          "Hujan?"
+        ],
+        "answers": [
+          "Banget",
+          "Parah",
+          "Bikin bahagia"
+        ]
+      },
+      {
+        "question": [
+          "Nongkrong?",
+          "Jalan-jalan?",
+          "Makan?"
+        ],
+        "answers": [
+          "Mau",
+          "Bisa",
+          "Lagi"
+        ]
+      },
+      {
+        "question": [
+          "Canggih?",
+          "Seru?",
+          "Mudah?"
+        ],
+        "answers": [
+          "Banget",
+          "Gokil",
+          "Beneran"
+        ]
+      }
+    ]
+  }
